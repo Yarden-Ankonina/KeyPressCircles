@@ -4,5 +4,5 @@
 ### Use your headphone!
 
 Was made with :
- **paperjs
- **Howlerjs
+ **paperjs**
+ **Howlerjs**
